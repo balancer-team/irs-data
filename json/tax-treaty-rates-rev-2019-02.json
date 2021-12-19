@@ -16,10 +16,6 @@
       "rate": 0.0,
       "citation": "18(1)"
     },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "18(2)"
-    },
     "knowhow10": {
       "rate": 0.05,
       "citation": "12(2) / P8"
@@ -53,10 +49,6 @@
     "pension15": {
       "rate": 0.0,
       "citation": "18(1)(a)"
-    },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "18(1)(b)"
     },
     "knowhow10": {
       "rate": 0.0,
@@ -92,10 +84,6 @@
       "rate": 0.0,
       "citation": "19(1)"
     },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "19(2)"
-    },
     "knowhow10": {
       "rate": 0.1,
       "citation": "12(2)"
@@ -129,10 +117,6 @@
     "pension15": {
       "rate": 0.0,
       "citation": "18(1)(a)"
-    },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "18(1)(b)"
     },
     "knowhow10": {
       "rate": 0.05,
@@ -168,10 +152,6 @@
       "rate": 0.0,
       "citation": "17(1)"
     },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "17(2)"
-    },
     "knowhow10": {
       "rate": 0.0,
       "citation": "12(1)"
@@ -205,10 +185,6 @@
     "pension15": {
       "rate": 0.0,
       "citation": "17(1)"
-    },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "17(2)"
     },
     "knowhow10": {
       "rate": 0.05,
@@ -286,10 +262,6 @@
       "rate": 0.0,
       "citation": "17(1)"
     },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "17(2)"
-    },
     "equipment10": {
       "rate": 0.07,
       "citation": "II(2)"
@@ -315,22 +287,6 @@
     "interest1": {
       "rate": 0.0,
       "citation": "III(1)(g)"
-    },
-    "dividend6": {
-      "rate": 0.3,
-      "citation": "None"
-    },
-    "dividend7": {
-      "rate": 0.3,
-      "citation": "None"
-    },
-    "pension15": {
-      "rate": 0.3,
-      "citation": "None"
-    },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "None"
     },
     "equipment10": {
       "rate": 0.0,
@@ -358,22 +314,6 @@
       "rate": 0.0,
       "citation": "III(1)(g)"
     },
-    "dividend6": {
-      "rate": 0.3,
-      "citation": "None"
-    },
-    "dividend7": {
-      "rate": 0.3,
-      "citation": "None"
-    },
-    "pension15": {
-      "rate": 0.3,
-      "citation": "None"
-    },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "None"
-    },
     "equipment10": {
       "rate": 0.0,
       "citation": "III(1)(a)"
@@ -399,22 +339,6 @@
     "interest1": {
       "rate": 0.0,
       "citation": "III(1)(g)"
-    },
-    "dividend6": {
-      "rate": 0.3,
-      "citation": "None"
-    },
-    "dividend7": {
-      "rate": 0.3,
-      "citation": "None"
-    },
-    "pension15": {
-      "rate": 0.3,
-      "citation": "None"
-    },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "None"
     },
     "equipment10": {
       "rate": 0.0,
@@ -442,22 +366,6 @@
       "rate": 0.0,
       "citation": "III(1)(g)"
     },
-    "dividend6": {
-      "rate": 0.3,
-      "citation": "None"
-    },
-    "dividend7": {
-      "rate": 0.3,
-      "citation": "None"
-    },
-    "pension15": {
-      "rate": 0.3,
-      "citation": "None"
-    },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "None"
-    },
     "equipment10": {
       "rate": 0.0,
       "citation": "III(1)(a)"
@@ -483,22 +391,6 @@
     "interest1": {
       "rate": 0.0,
       "citation": "III(1)(g)"
-    },
-    "dividend6": {
-      "rate": 0.3,
-      "citation": "None"
-    },
-    "dividend7": {
-      "rate": 0.3,
-      "citation": "None"
-    },
-    "pension15": {
-      "rate": 0.3,
-      "citation": "None"
-    },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "None"
     },
     "equipment10": {
       "rate": 0.0,
@@ -526,22 +418,6 @@
       "rate": 0.0,
       "citation": "III(1)(g)"
     },
-    "dividend6": {
-      "rate": 0.3,
-      "citation": "None"
-    },
-    "dividend7": {
-      "rate": 0.3,
-      "citation": "None"
-    },
-    "pension15": {
-      "rate": 0.3,
-      "citation": "None"
-    },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "None"
-    },
     "equipment10": {
       "rate": 0.0,
       "citation": "III(1)(a)"
@@ -567,22 +443,6 @@
     "interest1": {
       "rate": 0.0,
       "citation": "III(1)(g)"
-    },
-    "dividend6": {
-      "rate": 0.3,
-      "citation": "None"
-    },
-    "dividend7": {
-      "rate": 0.3,
-      "citation": "None"
-    },
-    "pension15": {
-      "rate": 0.3,
-      "citation": "None"
-    },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "None"
     },
     "equipment10": {
       "rate": 0.0,
@@ -610,22 +470,6 @@
       "rate": 0.0,
       "citation": "III(1)(g)"
     },
-    "dividend6": {
-      "rate": 0.3,
-      "citation": "None"
-    },
-    "dividend7": {
-      "rate": 0.3,
-      "citation": "None"
-    },
-    "pension15": {
-      "rate": 0.3,
-      "citation": "None"
-    },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "None"
-    },
     "equipment10": {
       "rate": 0.0,
       "citation": "III(1)(a)"
@@ -651,22 +495,6 @@
     "interest1": {
       "rate": 0.0,
       "citation": "III(1)(g)"
-    },
-    "dividend6": {
-      "rate": 0.3,
-      "citation": "None"
-    },
-    "dividend7": {
-      "rate": 0.3,
-      "citation": "None"
-    },
-    "pension15": {
-      "rate": 0.3,
-      "citation": "None"
-    },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "None"
     },
     "equipment10": {
       "rate": 0.0,
@@ -706,10 +534,6 @@
       "rate": 0.0,
       "citation": "23(1)"
     },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": 24
-    },
     "knowhow10": {
       "rate": 0.0,
       "citation": "14(1)"
@@ -744,10 +568,6 @@
       "rate": 0.0,
       "citation": "19(1)(a)"
     },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "19(1)(b)"
-    },
     "equipment10": {
       "rate": 0.1,
       "citation": "12(2)"
@@ -781,14 +601,6 @@
     "dividend7": {
       "rate": 0.05,
       "citation": "10(2) / PII"
-    },
-    "pension15": {
-      "rate": 0.3,
-      "citation": "18(1)"
-    },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "18(2)"
     },
     "knowhow10": {
       "rate": 0.0,
@@ -826,11 +638,7 @@
     },
     "socialSecurity": {
       "rate": 0.0,
-      "citation": 20
-    },
-    "knowhow10": {
-      "rate": 0.3,
-      "citation": "13(1)"
+      "citation": "20"
     },
     "patent10": {
       "rate": 0.15,
@@ -857,10 +665,6 @@
     "pension15": {
       "rate": 0.0,
       "citation": "18(1)"
-    },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "18(2)"
     },
     "equipment10": {
       "rate": 0.05,
@@ -900,10 +704,6 @@
       "rate": 0.0,
       "citation": "18(1)"
     },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "18(1)"
-    },
     "knowhow10": {
       "rate": 0.0,
       "citation": "12(1)"
@@ -933,14 +733,6 @@
     "dividend7": {
       "rate": 0.05,
       "citation": "10(2) / 2P2"
-    },
-    "pension15": {
-      "rate": 0.3,
-      "citation": "18(1) / 1PIII"
-    },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "18(1) / 1PIII"
     },
     "knowhow10": {
       "rate": 0.0,
@@ -1002,21 +794,9 @@
       "rate": 0.0,
       "citation": "VI"
     },
-    "dividend6": {
-      "rate": 0.3,
-      "citation": "IX"
-    },
-    "dividend7": {
-      "rate": 0.3,
-      "citation": "IX"
-    },
     "pension15": {
       "rate": 0.0,
       "citation": "XI(2)"
-    },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "XIV(1)"
     },
     "equipment10": {
       "rate": 0.0,
@@ -1028,10 +808,6 @@
     },
     "patent10": {
       "rate": 0.0,
-      "citation": "VII"
-    },
-    "film11": {
-      "rate": 0.3,
       "citation": "VII"
     },
     "copyright12": {
@@ -1056,25 +832,21 @@
       "rate": 0.0,
       "citation": "15(1)"
     },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "15(2)"
-    },
     "knowhow10": {
       "rate": 0.0,
-      "citation": 11
+      "citation": "11"
     },
     "patent10": {
       "rate": 0.0,
-      "citation": 11
+      "citation": "11"
     },
     "film11": {
       "rate": 0.0,
-      "citation": 11
+      "citation": "11"
     },
     "copyright12": {
       "rate": 0.0,
-      "citation": 11
+      "citation": "11"
     }
   },
   "is": {
@@ -1093,10 +865,6 @@
     "pension15": {
       "rate": 0.0,
       "citation": "17(1),(4)"
-    },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "17(2)"
     },
     "knowhow10": {
       "rate": 0.05,
@@ -1131,10 +899,6 @@
     "pension15": {
       "rate": 0.0,
       "citation": "20(1) - (4)"
-    },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "20(2)"
     },
     "equipment10": {
       "rate": 0.1,
@@ -1173,10 +937,6 @@
     "pension15": {
       "rate": 0.15,
       "citation": "21(1)"
-    },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": 22
     },
     "equipment10": {
       "rate": 0.1,
@@ -1256,7 +1016,7 @@
     },
     "socialSecurity": {
       "rate": 0.0,
-      "citation": 21
+      "citation": "21"
     },
     "knowhow10": {
       "rate": 0.15,
@@ -1334,10 +1094,6 @@
       "rate": 0.0,
       "citation": "19(1)(a)"
     },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "19(1)(b)"
-    },
     "knowhow10": {
       "rate": 0.1,
       "citation": "12(2)"
@@ -1410,10 +1166,6 @@
       "rate": 0.0,
       "citation": "18(1)(a)"
     },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "18(1)(b)"
-    },
     "equipment10": {
       "rate": 0.1,
       "citation": "12(2)"
@@ -1452,10 +1204,6 @@
       "rate": 0.0,
       "citation": "23(1)"
     },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": 24
-    },
     "knowhow10": {
       "rate": 0.15,
       "citation": "14(1)"
@@ -1489,10 +1237,6 @@
     "pension15": {
       "rate": 0.0,
       "citation": "18(1)"
-    },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "18(2)"
     },
     "equipment10": {
       "rate": 0.05,
@@ -1532,10 +1276,6 @@
       "rate": 0.0,
       "citation": "18(1)"
     },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "18(2)"
-    },
     "equipment10": {
       "rate": 0.05,
       "citation": "12(2)"
@@ -1574,10 +1314,6 @@
       "rate": 0.0,
       "citation": "19(1)(a)"
     },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "19(1)(b)"
-    },
     "knowhow10": {
       "rate": 0.0,
       "citation": "13(1)"
@@ -1612,10 +1348,6 @@
       "rate": 0.0,
       "citation": "17(1)"
     },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "17(2)"
-    },
     "knowhow10": {
       "rate": 0.1,
       "citation": "12(2)"
@@ -1649,10 +1381,6 @@
     "pension15": {
       "rate": 0.0,
       "citation": "19(1)(a)"
-    },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "19(1)(b)"
     },
     "equipment10": {
       "rate": 0.1,
@@ -1692,10 +1420,6 @@
       "rate": 0.0,
       "citation": "19(1)"
     },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "20(3)"
-    },
     "knowhow10": {
       "rate": 0.1,
       "citation": "12(2)"
@@ -1729,10 +1453,6 @@
     "pension15": {
       "rate": 0.0,
       "citation": "19(1) - (3)"
-    },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "19(4)"
     },
     "knowhow10": {
       "rate": 0.0,
@@ -1768,10 +1488,6 @@
       "rate": 0.0,
       "citation": "18(1)"
     },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "18(1)(b)"
-    },
     "knowhow10": {
       "rate": 0.05,
       "citation": "12(2) / PVIII"
@@ -1806,10 +1522,6 @@
       "rate": 0.0,
       "citation": "18(1)"
     },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "19 / PVIII"
-    },
     "knowhow10": {
       "rate": 0.0,
       "citation": "10(1)"
@@ -1824,14 +1536,6 @@
     }
   },
   "pk": {
-    "interest1": {
-      "rate": 0.3,
-      "citation": "XIV"
-    },
-    "dividend6": {
-      "rate": 0.3,
-      "citation": "VII(2) / VI(1)"
-    },
     "dividend7": {
       "rate": 0.15,
       "citation": "VII(2) / VI(1)"
@@ -1839,10 +1543,6 @@
     "pension15": {
       "rate": 0.0,
       "citation": "X(1)-(3)"
-    },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "None"
     },
     "knowhow10": {
       "rate": 0.0,
@@ -1869,14 +1569,6 @@
     "dividend7": {
       "rate": 0.2,
       "citation": "11(2)"
-    },
-    "pension15": {
-      "rate": 0.3,
-      "citation": "18(1)"
-    },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": 19
     },
     "knowhow10": {
       "rate": 0.15,
@@ -1907,14 +1599,6 @@
     "dividend7": {
       "rate": 0.05,
       "citation": "11(2)"
-    },
-    "pension15": {
-      "rate": 0.3,
-      "citation": "None"
-    },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "None"
     },
     "knowhow10": {
       "rate": 0.1,
@@ -1949,10 +1633,6 @@
     "pension15": {
       "rate": 0.0,
       "citation": "20(1)(a)"
-    },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "20(1)(b)"
     },
     "equipment10": {
       "rate": 0.1,
@@ -1994,7 +1674,7 @@
     },
     "socialSecurity": {
       "rate": 0.0,
-      "citation": 17
+      "citation": "17"
     },
     "knowhow10": {
       "rate": 0.15,
@@ -2030,10 +1710,6 @@
       "rate": 0.0,
       "citation": "17(1)(a)"
     },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "17(1)(b)"
-    },
     "knowhow10": {
       "rate": 0.0,
       "citation": "12(1)"
@@ -2067,10 +1743,6 @@
     "pension15": {
       "rate": 0.0,
       "citation": "19(1)"
-    },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "19(1)(b)"
     },
     "equipment10": {
       "rate": 0.1,
@@ -2110,10 +1782,6 @@
       "rate": 0.0,
       "citation": "18(1)"
     },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "18(2)"
-    },
     "knowhow10": {
       "rate": 0.05,
       "citation": "12(1)"
@@ -2148,10 +1816,6 @@
       "rate": 0.15,
       "citation": "18(1)"
     },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "18(2)"
-    },
     "knowhow10": {
       "rate": 0.0,
       "citation": "12(1)"
@@ -2185,10 +1849,6 @@
     "pension15": {
       "rate": 0.0,
       "citation": "20(1)(a)"
-    },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "20(1)(b)"
     },
     "equipment10": {
       "rate": 0.08,
@@ -2228,10 +1888,6 @@
       "rate": 0.0,
       "citation": "19(1)"
     },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "19(2)"
-    },
     "equipment10": {
       "rate": 0.05,
       "citation": "12(2)"
@@ -2269,10 +1925,6 @@
     "pension15": {
       "rate": 0.0,
       "citation": "19(1)"
-    },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "19(2)"
     },
     "knowhow10": {
       "rate": 0.0,
@@ -2342,10 +1994,6 @@
       "rate": 0.0,
       "citation": "20(1)"
     },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "20(2)"
-    },
     "equipment10": {
       "rate": 0.08,
       "citation": "12(2)"
@@ -2368,25 +2016,9 @@
     }
   },
   "tt": {
-    "interest1": {
-      "rate": 0.3,
-      "citation": 13
-    },
-    "dividend6": {
-      "rate": 0.3,
-      "citation": "12(1)"
-    },
-    "dividend7": {
-      "rate": 0.3,
-      "citation": "12(1)"
-    },
     "pension15": {
       "rate": 0.0,
       "citation": "22(1)"
-    },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "None"
     },
     "knowhow10": {
       "rate": 0.15,
@@ -2416,10 +2048,6 @@
     },
     "pension15": {
       "rate": 0.0,
-      "citation": "18(1)"
-    },
-    "socialSecurity": {
-      "rate": 0.3,
       "citation": "18(1)"
     },
     "equipment10": {
@@ -2460,10 +2088,6 @@
       "rate": 0.0,
       "citation": "18(1)"
     },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "18(2)"
-    },
     "equipment10": {
       "rate": 0.05,
       "citation": "12(2)"
@@ -2501,10 +2125,6 @@
     "pension15": {
       "rate": 0.0,
       "citation": "19(2)"
-    },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "19(1)"
     },
     "knowhow10": {
       "rate": 0.1,
@@ -2578,10 +2198,6 @@
       "rate": 0.0,
       "citation": "19(1)"
     },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "19(2)"
-    },
     "equipment10": {
       "rate": 0.05,
       "citation": "12(2)"
@@ -2601,48 +2217,6 @@
     "copyright12": {
       "rate": 0.1,
       "citation": "12(2)"
-    }
-  },
-  "oc": {
-    "interest1": {
-      "rate": 0.3,
-      "citation": "None"
-    },
-    "dividend6": {
-      "rate": 0.3,
-      "citation": "None"
-    },
-    "dividend7": {
-      "rate": 0.3,
-      "citation": "None"
-    },
-    "pension15": {
-      "rate": 0.3,
-      "citation": "None"
-    },
-    "socialSecurity": {
-      "rate": 0.3,
-      "citation": "None"
-    },
-    "equipment10": {
-      "rate": 0.3,
-      "citation": "None"
-    },
-    "knowhow10": {
-      "rate": 0.3,
-      "citation": "None"
-    },
-    "patent10": {
-      "rate": 0.3,
-      "citation": "None"
-    },
-    "film11": {
-      "rate": 0.3,
-      "citation": "None"
-    },
-    "copyright12": {
-      "rate": 0.3,
-      "citation": "None"
     }
   }
 }
