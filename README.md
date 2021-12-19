@@ -8,9 +8,9 @@ IRS data in a variety of formats. Data is obtained from the official IRS website
 
 Available Files:
 
-- `csv/tax-treaty-rates-rev-2019-02.csv`
-- `json/tax-treaty-rates-rev-2019-02.json`
-- `pdf/tax-treaty-rates-rev-2019-02.pdf`
+- `csv/tax-treaty-rates-2019-02.csv`
+- `json/tax-treaty-rates-2019-02.json`
+- `pdf/tax-treaty-rates-2019-02.pdf`
 
 This data lists the income tax rates on interest, dividends, royalties, and other income that is not effectively connected with the conduct of a U.S. trade or business. The income code numbers shown in this table are the same as the income codes on Form 1042-S, Foreign Person's U.S. Source Income Subject to Withholding.
 
