@@ -1,0 +1,238 @@
+iso,irs,name
+ad,an,Andorra
+ae,ae,United Arab Emirates
+af,af,Afghanistan
+ag,ac,Antigua and Barbuda
+ai,av,Anguilla
+al,al,Albania
+am,am,Armenia
+ao,ao,Angola
+aq,ay,Antarctica
+ar,ar,Argentina
+as,aq,American Samoa
+at,au,Austria
+au,as,Australia
+aw,aa,Aruba
+az,aj,Azerbaijan
+ba,bk,Bosnia-Herzegovina
+bb,bb,Barbados
+bd,bg,Bangladesh
+be,be,Belgium
+bf,uv,Burkina Faso
+bg,bu,Bulgaria
+bh,ba,Bahrain
+bi,by,Burundi
+bj,bn,Benin
+bl,tb,Saint Barthelemy
+bm,bd,Bermuda
+bn,bx,Brunei
+bo,bl,Bolivia
+br,br,Brazil
+bs,bf,Bahamas
+bt,bt,Bhutan
+bv,bv,Bouvet Island
+bw,bc,Botswana
+by,bo,Belarus
+bz,bh,Belize
+ca,ca,Canada
+cc,ck,Cocos (Keeling) Islands
+cd,cg,Congo (Kinshasa)
+cf,ct,Central African Republic
+cg,cf,Congo (Brazzaville)
+ch,sz,Switzerland
+ci,iv,Ivory Coast
+ck,cw,Cook Islands
+cl,ci,Chile
+cm,cm,Cameroon
+cn,ch,China
+co,co,Colombia
+cr,cs,Costa Rica
+cu,cu,Cuba
+cv,cv,Cape Verde
+cw,uc,Curacao
+cx,kt,Christmas Island
+cy,cy,Cyprus
+cz,ez,Czech Republic
+de,gm,Germany
+dj,dj,Djibouti
+dk,da,Denmark
+dm,do,Dominica
+do,dr,Dominican Rep.
+dz,ag,Algeria
+ec,ec,Ecuador
+ee,en,Estonia
+eg,eg,Egypt
+eh,wi,Western Sahara
+er,er,Eritrea
+es,sp,Spain
+et,et,Ethiopia
+fi,fi,Finland
+fj,fj,Fiji
+fk,fk,Falkland Islands
+fm,fm,Federated States of Micronesia
+fo,fo,Faroe Islands
+fr,fr,France
+ga,gb,Gabon
+gb,uk,United Kingdom
+gd,gj,Grenada
+ge,gg,Georgia
+gg,gk,Guernsey
+gh,gh,Ghana
+gi,gi,Gibraltar
+gl,gl,Greenland
+gm,ga,Gambia
+gn,gv,Guinea
+gq,ek,Equatorial Guinea
+gr,gr,Greece
+gs,sx,South Georgia
+gt,gt,Guatemala
+gu,gq,Guam
+gw,pu,Guinea-Bissau
+gy,gy,Guyana
+hk,hk,Hong Kong
+hm,hm,Heard and McDonald Islands
+hn,ho,Honduras
+hr,hr,Croatia
+ht,ha,Haiti
+hu,hu,Hungary
+id,id,Indonesia
+ie,ei,Ireland
+il,is,Israel
+im,im,Isle of Man
+in,in,India
+io,io,British Indian Ocean Territory
+iq,iz,Iraq
+ir,ir,Iran
+is,ic,Iceland
+it,it,Italy
+je,je,Jersey
+jm,jm,Jamaica
+jo,jo,Jordan
+jp,ja,Japan
+ke,ke,Kenya
+kg,kg,Kyrgyzstan
+kh,cb,Cambodia
+ki,kr,Kiribati
+km,cn,Comoros
+kn,sc,St. Kitts and Nevis
+kp,kn,North Korea
+kr,ks,South Korea
+kw,ku,Kuwait
+ky,cj,Cayman Islands
+kz,kz,Kazakhstan
+la,la,Laos
+lb,le,Lebanon
+lc,st,St. Lucia Island
+li,ls,Liechtenstein
+lk,ce,Sri Lanka
+lr,li,Liberia
+ls,lt,Lesotho
+lt,lh,Lithuania
+lu,lu,Luxembourg
+lv,lg,Latvia
+ly,ly,Libya
+ma,mo,Morocco
+mc,mn,Monaco
+md,md,Moldova
+me,mj,Montenegro
+mf,rn,Saint Martin
+mg,ma,Madagascar
+mh,rm,Marshall Islands
+mk,mk,Macedonia
+ml,ml,Mali
+mm,bm,Myanmar (Burma)
+mn,mg,Mongolia
+mo,mc,Macau
+mp,cq,Northern Mariana Islands
+mr,mr,Mauritania
+ms,mh,Montserrat
+mt,mt,Malta
+mu,mp,Mauritius
+mv,mv,Maldives
+mw,mi,Malawi
+mx,mx,Mexico
+my,my,Malaysia
+mz,mz,Mozambique
+na,wa,Namibia
+nc,nc,New Caledonia
+ne,ng,Niger
+nf,nf,Norfolk Island
+ng,ni,Nigeria
+ni,nu,Nicaragua
+nl,nl,Netherlands
+no,no,Norway
+np,np,Nepal
+nr,nr,Nauru
+nu,ne,Niue
+nz,nz,New Zealand
+om,mu,Oman
+pa,pm,Panama
+pe,pe,Peru
+pf,fp,French Polynesia
+pg,pp,Papua-New Guinea
+ph,rp,Philippines
+pk,pk,Pakistan
+pl,pl,Poland
+pm,sb,St. Pierre and Miquelon
+pn,pc,Pitcairn Islands
+pt,po,Portugal
+pw,ps,Palau
+py,pa,Paraguay
+qa,qa,Qatar
+ro,ro,Romania
+rs,ri,Serbia
+ru,rs,Russia
+rw,rw,Rwanda
+sa,sa,Saudi Arabia
+sb,bp,Solomon Islands
+sc,se,Seychelles
+sd,su,Sudan
+se,sw,Sweden
+sg,sn,Singapore
+sh,sh,St. Helena
+si,si,Slovenia
+sk,lo,Slovakia
+sl,sl,Sierra Leone
+sm,sm,San Marino
+sn,sg,Senegal
+so,so,Somalia
+sr,ns,Suriname
+ss,od,South Sudan
+st,tp,Sao Tome and Principe
+sv,es,El Salvador
+sx,nn,Sint Maarten
+sy,sy,Syria
+sz,wz,Swaziland
+tc,tk,Turks and Caicos Islands
+td,cd,Chad
+tf,fs,French Southern Territories
+tg,to,Togo
+th,th,Thailand
+tj,ti,Tajikistan
+tk,tl,Tokelau
+tl,tt,East Timor
+tm,tx,Turkmenistan
+tn,ts,Tunisia
+to,tn,Tonga
+tr,tu,Turkey
+tt,td,Trinidad
+tv,tv,Tuvalu
+tw,tw,Taiwan
+tz,tz,Tanzania
+ua,up,Ukraine
+ug,ug,Uganda
+us,us,United States
+uy,uy,Uruguay
+uz,uz,Uzbekistan
+va,vt,Holy See
+vc,vc,St. Vincent and the Grenadines
+ve,ve,Venezuela
+vn,vm,Vietnam
+vu,nh,Vanuatu
+wf,wf,Wallis and Futuna
+ws,ws,Samoa
+xk,kv,Kosovo
+ye,ym,Yemen
+za,sf,South Africa
+zm,za,Zambia
+zw,zi,Zimbabwe
