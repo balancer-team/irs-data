@@ -1,0 +1,2648 @@
+{
+  "au": {
+    "interest1": {
+      "rate": 0.1,
+      "citation": "11(2) / P7"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "10(2) / P6"
+    },
+    "dividend7": {
+      "rate": 0.05,
+      "citation": "10(2) / P6"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "18(1)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "18(2)"
+    },
+    "knowhow10": {
+      "rate": 0.05,
+      "citation": "12(2) / P8"
+    },
+    "patent10": {
+      "rate": 0.05,
+      "citation": "12(2) / P8"
+    },
+    "film11": {
+      "rate": 0.05,
+      "citation": "12(2) / P8"
+    },
+    "copyright12": {
+      "rate": 0.05,
+      "citation": "12(2) / P8"
+    }
+  },
+  "at": {
+    "interest1": {
+      "rate": 0.0,
+      "citation": "11(1)"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "10(2)"
+    },
+    "dividend7": {
+      "rate": 0.05,
+      "citation": "10(2)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "18(1)(a)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "18(1)(b)"
+    },
+    "knowhow10": {
+      "rate": 0.0,
+      "citation": "12(1), (2)"
+    },
+    "patent10": {
+      "rate": 0.0,
+      "citation": "12(1), (2)"
+    },
+    "film11": {
+      "rate": 0.1,
+      "citation": "12(1), (2)"
+    },
+    "copyright12": {
+      "rate": 0.0,
+      "citation": "12(1), (2)"
+    }
+  },
+  "bd": {
+    "interest1": {
+      "rate": 0.1,
+      "citation": "11(2)"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "10(2)"
+    },
+    "dividend7": {
+      "rate": 0.1,
+      "citation": "10(2)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "19(1)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "19(2)"
+    },
+    "knowhow10": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "patent10": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "film11": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "copyright12": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    }
+  },
+  "bb": {
+    "interest1": {
+      "rate": 0.05,
+      "citation": "11(1) /1PIV; 2PII(6)"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "10(2) / 1PIII(1); 2PII(6)"
+    },
+    "dividend7": {
+      "rate": 0.05,
+      "citation": "10(2) / 1PIII(1); 2PII(6)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "18(1)(a)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "18(1)(b)"
+    },
+    "knowhow10": {
+      "rate": 0.05,
+      "citation": "12(2) / 1PV; 2PII(6)"
+    },
+    "patent10": {
+      "rate": 0.05,
+      "citation": "12(2) / 1PV; 2PII(6)"
+    },
+    "film11": {
+      "rate": 0.05,
+      "citation": "12(2) / 1PV; 2PII(6)"
+    },
+    "copyright12": {
+      "rate": 0.05,
+      "citation": "12(2) / 1PV; 2PII(6)"
+    }
+  },
+  "be": {
+    "interest1": {
+      "rate": 0.0,
+      "citation": "11(1)"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "10(2)"
+    },
+    "dividend7": {
+      "rate": 0.05,
+      "citation": "10(2)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "17(1)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "17(2)"
+    },
+    "knowhow10": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    },
+    "patent10": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    },
+    "film11": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    },
+    "copyright12": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    }
+  },
+  "bg": {
+    "interest1": {
+      "rate": 0.05,
+      "citation": "11(1)-(3)"
+    },
+    "dividend6": {
+      "rate": 0.1,
+      "citation": "10(2)"
+    },
+    "dividend7": {
+      "rate": 0.05,
+      "citation": "10(2)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "17(1)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "17(2)"
+    },
+    "knowhow10": {
+      "rate": 0.05,
+      "citation": "12(2) / P5(7)"
+    },
+    "patent10": {
+      "rate": 0.05,
+      "citation": "12(2) / P5(7)"
+    },
+    "film11": {
+      "rate": 0.05,
+      "citation": "12(2) / P5(7)"
+    },
+    "copyright12": {
+      "rate": 0.05,
+      "citation": "12(2) / P5(7)"
+    }
+  },
+  "ca": {
+    "interest1": {
+      "rate": 0.0,
+      "citation": "XI(1) / 5P6(1)"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "X(2) / 5P5(1)"
+    },
+    "dividend7": {
+      "rate": 0.05,
+      "citation": "X(2) / 5P5(1)"
+    },
+    "pension15": {
+      "rate": 0.15,
+      "citation": "XVIII(1) / 3P9; 5P13"
+    },
+    "socialSecurity": {
+      "rate": 0.0,
+      "citation": "XVIII(5) / 4P2(2)"
+    },
+    "equipment10": {
+      "rate": 0.1,
+      "citation": "12(2), (3) / 5P7(1)"
+    },
+    "knowhow10": {
+      "rate": 0.0,
+      "citation": "12(2), (3) / 5P7(1)"
+    },
+    "patent10": {
+      "rate": 0.0,
+      "citation": "12(2), (3) / 5P7(1)"
+    },
+    "film11": {
+      "rate": 0.1,
+      "citation": "12(2), (3) / 5P7(1)"
+    },
+    "copyright12": {
+      "rate": 0.0,
+      "citation": "12(2), (3) / 5P7(1)"
+    }
+  },
+  "cn": {
+    "interest1": {
+      "rate": 0.1,
+      "citation": "10(2)"
+    },
+    "dividend6": {
+      "rate": 0.1,
+      "citation": "9(2)"
+    },
+    "dividend7": {
+      "rate": 0.1,
+      "citation": "9(2)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "17(1)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "17(2)"
+    },
+    "equipment10": {
+      "rate": 0.07,
+      "citation": "II(2)"
+    },
+    "knowhow10": {
+      "rate": 0.1,
+      "citation": "II(2)"
+    },
+    "patent10": {
+      "rate": 0.1,
+      "citation": "II(2)"
+    },
+    "film11": {
+      "rate": 0.1,
+      "citation": "II(2)"
+    },
+    "copyright12": {
+      "rate": 0.1,
+      "citation": "II(2)"
+    }
+  },
+  "am": {
+    "interest1": {
+      "rate": 0.0,
+      "citation": "III(1)(g)"
+    },
+    "dividend6": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "dividend7": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "pension15": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "equipment10": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    },
+    "knowhow10": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    },
+    "patent10": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    },
+    "film11": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    },
+    "copyright12": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    }
+  },
+  "az": {
+    "interest1": {
+      "rate": 0.0,
+      "citation": "III(1)(g)"
+    },
+    "dividend6": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "dividend7": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "pension15": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "equipment10": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    },
+    "knowhow10": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    },
+    "patent10": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    },
+    "film11": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    },
+    "copyright12": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    }
+  },
+  "by": {
+    "interest1": {
+      "rate": 0.0,
+      "citation": "III(1)(g)"
+    },
+    "dividend6": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "dividend7": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "pension15": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "equipment10": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    },
+    "knowhow10": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    },
+    "patent10": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    },
+    "film11": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    },
+    "copyright12": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    }
+  },
+  "ge": {
+    "interest1": {
+      "rate": 0.0,
+      "citation": "III(1)(g)"
+    },
+    "dividend6": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "dividend7": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "pension15": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "equipment10": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    },
+    "knowhow10": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    },
+    "patent10": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    },
+    "film11": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    },
+    "copyright12": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    }
+  },
+  "kg": {
+    "interest1": {
+      "rate": 0.0,
+      "citation": "III(1)(g)"
+    },
+    "dividend6": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "dividend7": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "pension15": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "equipment10": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    },
+    "knowhow10": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    },
+    "patent10": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    },
+    "film11": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    },
+    "copyright12": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    }
+  },
+  "md": {
+    "interest1": {
+      "rate": 0.0,
+      "citation": "III(1)(g)"
+    },
+    "dividend6": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "dividend7": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "pension15": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "equipment10": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    },
+    "knowhow10": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    },
+    "patent10": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    },
+    "film11": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    },
+    "copyright12": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    }
+  },
+  "tj": {
+    "interest1": {
+      "rate": 0.0,
+      "citation": "III(1)(g)"
+    },
+    "dividend6": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "dividend7": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "pension15": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "equipment10": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    },
+    "knowhow10": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    },
+    "patent10": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    },
+    "film11": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    },
+    "copyright12": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    }
+  },
+  "tm": {
+    "interest1": {
+      "rate": 0.0,
+      "citation": "III(1)(g)"
+    },
+    "dividend6": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "dividend7": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "pension15": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "equipment10": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    },
+    "knowhow10": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    },
+    "patent10": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    },
+    "film11": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    },
+    "copyright12": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    }
+  },
+  "uz": {
+    "interest1": {
+      "rate": 0.0,
+      "citation": "III(1)(g)"
+    },
+    "dividend6": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "dividend7": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "pension15": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "equipment10": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    },
+    "knowhow10": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    },
+    "patent10": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    },
+    "film11": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    },
+    "copyright12": {
+      "rate": 0.0,
+      "citation": "III(1)(a)"
+    }
+  },
+  "cy": {
+    "interest1": {
+      "rate": 0.1,
+      "citation": "13(2)"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "12(2)"
+    },
+    "dividend7": {
+      "rate": 0.05,
+      "citation": "12(2)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "23(1)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": 24
+    },
+    "knowhow10": {
+      "rate": 0.0,
+      "citation": "14(1)"
+    },
+    "patent10": {
+      "rate": 0.0,
+      "citation": "14(1)"
+    },
+    "film11": {
+      "rate": 0.0,
+      "citation": "14(1)"
+    },
+    "copyright12": {
+      "rate": 0.0,
+      "citation": "14(1)"
+    }
+  },
+  "cz": {
+    "interest1": {
+      "rate": 0.0,
+      "citation": "11(1)"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "10(2)"
+    },
+    "dividend7": {
+      "rate": 0.05,
+      "citation": "10(2)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "19(1)(a)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "19(1)(b)"
+    },
+    "equipment10": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "knowhow10": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "patent10": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "film11": {
+      "rate": 0.0,
+      "citation": "12(2)"
+    },
+    "copyright12": {
+      "rate": 0.0,
+      "citation": "12(2)"
+    }
+  },
+  "dk": {
+    "interest1": {
+      "rate": 0.0,
+      "citation": "11(1)"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "10(2) / PII"
+    },
+    "dividend7": {
+      "rate": 0.05,
+      "citation": "10(2) / PII"
+    },
+    "pension15": {
+      "rate": 0.3,
+      "citation": "18(1)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "18(2)"
+    },
+    "knowhow10": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    },
+    "patent10": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    },
+    "film11": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    },
+    "copyright12": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    }
+  },
+  "eg": {
+    "interest1": {
+      "rate": 0.15,
+      "citation": "12(2)"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "11(2)"
+    },
+    "dividend7": {
+      "rate": 0.05,
+      "citation": "11(2)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "19(1)"
+    },
+    "socialSecurity": {
+      "rate": 0.0,
+      "citation": 20
+    },
+    "knowhow10": {
+      "rate": 0.3,
+      "citation": "13(1)"
+    },
+    "patent10": {
+      "rate": 0.15,
+      "citation": "13(1)"
+    },
+    "copyright12": {
+      "rate": 0.15,
+      "citation": "13(1)"
+    }
+  },
+  "ee": {
+    "interest1": {
+      "rate": 0.1,
+      "citation": "11(2)"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "10(2)"
+    },
+    "dividend7": {
+      "rate": 0.05,
+      "citation": "10(2)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "18(1)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "18(2)"
+    },
+    "equipment10": {
+      "rate": 0.05,
+      "citation": "12(2)"
+    },
+    "knowhow10": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "patent10": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "film11": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "copyright12": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    }
+  },
+  "fi": {
+    "interest1": {
+      "rate": 0.0,
+      "citation": "11(1) / PIV"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "10(2) / PIII"
+    },
+    "dividend7": {
+      "rate": 0.05,
+      "citation": "10(2) / PIII"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "18(1)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "18(1)"
+    },
+    "knowhow10": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    },
+    "patent10": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    },
+    "film11": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    },
+    "copyright12": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    }
+  },
+  "fr": {
+    "interest1": {
+      "rate": 0.0,
+      "citation": "11(2)"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "10(2) / 2P2"
+    },
+    "dividend7": {
+      "rate": 0.05,
+      "citation": "10(2) / 2P2"
+    },
+    "pension15": {
+      "rate": 0.3,
+      "citation": "18(1) / 1PIII"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "18(1) / 1PIII"
+    },
+    "knowhow10": {
+      "rate": 0.0,
+      "citation": "12(1) / 2PIII"
+    },
+    "patent10": {
+      "rate": 0.0,
+      "citation": "12(1) / 2PIII"
+    },
+    "film11": {
+      "rate": 0.0,
+      "citation": "12(1) / 2PIII"
+    },
+    "copyright12": {
+      "rate": 0.0,
+      "citation": "12(1) / 2PIII"
+    }
+  },
+  "de": {
+    "interest1": {
+      "rate": 0.0,
+      "citation": "11(1)"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "10(2) / PIV"
+    },
+    "dividend7": {
+      "rate": 0.05,
+      "citation": "10(2) / PIV"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "18(1)"
+    },
+    "socialSecurity": {
+      "rate": 0.0,
+      "citation": "18(5) / PVIII"
+    },
+    "knowhow10": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    },
+    "patent10": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    },
+    "film11": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    },
+    "copyright12": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    }
+  },
+  "gr": {
+    "interest1": {
+      "rate": 0.0,
+      "citation": "VI"
+    },
+    "dividend6": {
+      "rate": 0.3,
+      "citation": "IX"
+    },
+    "dividend7": {
+      "rate": 0.3,
+      "citation": "IX"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "XI(2)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "XIV(1)"
+    },
+    "equipment10": {
+      "rate": 0.0,
+      "citation": "VII"
+    },
+    "knowhow10": {
+      "rate": 0.0,
+      "citation": "VII"
+    },
+    "patent10": {
+      "rate": 0.0,
+      "citation": "VII"
+    },
+    "film11": {
+      "rate": 0.3,
+      "citation": "VII"
+    },
+    "copyright12": {
+      "rate": 0.0,
+      "citation": "VII"
+    }
+  },
+  "hu": {
+    "interest1": {
+      "rate": 0.0,
+      "citation": "10(1)"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "9(2)"
+    },
+    "dividend7": {
+      "rate": 0.05,
+      "citation": "9(2)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "15(1)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "15(2)"
+    },
+    "knowhow10": {
+      "rate": 0.0,
+      "citation": 11
+    },
+    "patent10": {
+      "rate": 0.0,
+      "citation": 11
+    },
+    "film11": {
+      "rate": 0.0,
+      "citation": 11
+    },
+    "copyright12": {
+      "rate": 0.0,
+      "citation": 11
+    }
+  },
+  "is": {
+    "interest1": {
+      "rate": 0.0,
+      "citation": "11(1)"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "10(2)"
+    },
+    "dividend7": {
+      "rate": 0.05,
+      "citation": "10(2)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "17(1),(4)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "17(2)"
+    },
+    "knowhow10": {
+      "rate": 0.05,
+      "citation": "12(1), (2)"
+    },
+    "patent10": {
+      "rate": 0.0,
+      "citation": "12(1), (2)"
+    },
+    "film11": {
+      "rate": 0.05,
+      "citation": "12(1), (2)"
+    },
+    "copyright12": {
+      "rate": 0.0,
+      "citation": "12(1), (2)"
+    }
+  },
+  "in": {
+    "interest1": {
+      "rate": 0.15,
+      "citation": "11(2)"
+    },
+    "dividend6": {
+      "rate": 0.25,
+      "citation": "10(2)"
+    },
+    "dividend7": {
+      "rate": 0.15,
+      "citation": "10(2)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "20(1) - (4)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "20(2)"
+    },
+    "equipment10": {
+      "rate": 0.1,
+      "citation": "12(2)-(4)"
+    },
+    "knowhow10": {
+      "rate": 0.15,
+      "citation": "12(2)-(4)"
+    },
+    "patent10": {
+      "rate": 0.15,
+      "citation": "12(2)-(4)"
+    },
+    "film11": {
+      "rate": 0.15,
+      "citation": "12(2)-(4)"
+    },
+    "copyright12": {
+      "rate": 0.15,
+      "citation": "12(2)-(4)"
+    }
+  },
+  "id": {
+    "interest1": {
+      "rate": 0.1,
+      "citation": "12(2) / P2"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "11(2) / P1"
+    },
+    "dividend7": {
+      "rate": 0.1,
+      "citation": "11(2) / P1"
+    },
+    "pension15": {
+      "rate": 0.15,
+      "citation": "21(1)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": 22
+    },
+    "equipment10": {
+      "rate": 0.1,
+      "citation": "13(2) / P34"
+    },
+    "knowhow10": {
+      "rate": 0.1,
+      "citation": "13(2) / P34"
+    },
+    "patent10": {
+      "rate": 0.1,
+      "citation": "13(2) / P34"
+    },
+    "film11": {
+      "rate": 0.1,
+      "citation": "13(2) / P34"
+    },
+    "copyright12": {
+      "rate": 0.1,
+      "citation": "13(2) / P34"
+    }
+  },
+  "ie": {
+    "interest1": {
+      "rate": 0.0,
+      "citation": "11(1)"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "10(2)"
+    },
+    "dividend7": {
+      "rate": 0.05,
+      "citation": "10(2)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "18(1)(a)"
+    },
+    "socialSecurity": {
+      "rate": 0.0,
+      "citation": "18(1)(b)"
+    },
+    "knowhow10": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    },
+    "patent10": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    },
+    "film11": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    },
+    "copyright12": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    }
+  },
+  "il": {
+    "interest1": {
+      "rate": 0.175,
+      "citation": "13(2)"
+    },
+    "dividend6": {
+      "rate": 0.25,
+      "citation": "12(2)"
+    },
+    "dividend7": {
+      "rate": 0.125,
+      "citation": "12(2)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "20(1)"
+    },
+    "socialSecurity": {
+      "rate": 0.0,
+      "citation": 21
+    },
+    "knowhow10": {
+      "rate": 0.15,
+      "citation": "14(1)"
+    },
+    "patent10": {
+      "rate": 0.15,
+      "citation": "14(1)"
+    },
+    "film11": {
+      "rate": 0.1,
+      "citation": "14(1)"
+    },
+    "copyright12": {
+      "rate": 0.1,
+      "citation": "14(1)"
+    }
+  },
+  "it": {
+    "interest1": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "10(2)"
+    },
+    "dividend7": {
+      "rate": 0.05,
+      "citation": "10(2)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "18(1)"
+    },
+    "socialSecurity": {
+      "rate": 0.0,
+      "citation": "18(2)"
+    },
+    "equipment10": {
+      "rate": 0.05,
+      "citation": "12(2)"
+    },
+    "knowhow10": {
+      "rate": 0.08,
+      "citation": "12(2)"
+    },
+    "patent10": {
+      "rate": 0.08,
+      "citation": "12(2)"
+    },
+    "film11": {
+      "rate": 0.08,
+      "citation": "12(2)"
+    },
+    "copyright12": {
+      "rate": 0.0,
+      "citation": "12(2)"
+    }
+  },
+  "jm": {
+    "interest1": {
+      "rate": 0.125,
+      "citation": "11(2)"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "10(2) / P2"
+    },
+    "dividend7": {
+      "rate": 0.1,
+      "citation": "10(2) / P2"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "19(1)(a)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "19(1)(b)"
+    },
+    "knowhow10": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "patent10": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "film11": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "copyright12": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    }
+  },
+  "jp": {
+    "interest1": {
+      "rate": 0.1,
+      "citation": "11(2)"
+    },
+    "dividend6": {
+      "rate": 0.1,
+      "citation": "10(2)"
+    },
+    "dividend7": {
+      "rate": 0.05,
+      "citation": "10(2)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "17(1)"
+    },
+    "socialSecurity": {
+      "rate": 0.0,
+      "citation": "17(1)"
+    },
+    "knowhow10": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    },
+    "patent10": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    },
+    "film11": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    },
+    "copyright12": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    }
+  },
+  "kz": {
+    "interest1": {
+      "rate": 0.1,
+      "citation": "11(2)"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "10(2)"
+    },
+    "dividend7": {
+      "rate": 0.05,
+      "citation": "10(2)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "18(1)(a)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "18(1)(b)"
+    },
+    "equipment10": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "knowhow10": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "patent10": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "film11": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "copyright12": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    }
+  },
+  "kr": {
+    "interest1": {
+      "rate": 0.12,
+      "citation": "13(2)"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "12(2)"
+    },
+    "dividend7": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "23(1)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": 24
+    },
+    "knowhow10": {
+      "rate": 0.15,
+      "citation": "14(1)"
+    },
+    "patent10": {
+      "rate": 0.15,
+      "citation": "14(1)"
+    },
+    "film11": {
+      "rate": 0.1,
+      "citation": "14(1)"
+    },
+    "copyright12": {
+      "rate": 0.1,
+      "citation": "14(1)"
+    }
+  },
+  "lv": {
+    "interest1": {
+      "rate": 0.1,
+      "citation": "11(2)"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "10(2)"
+    },
+    "dividend7": {
+      "rate": 0.05,
+      "citation": "10(2)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "18(1)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "18(2)"
+    },
+    "equipment10": {
+      "rate": 0.05,
+      "citation": "12(2)"
+    },
+    "knowhow10": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "patent10": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "film11": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "copyright12": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    }
+  },
+  "lt": {
+    "interest1": {
+      "rate": 0.1,
+      "citation": "11(2)"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "10(2)"
+    },
+    "dividend7": {
+      "rate": 0.05,
+      "citation": "10(2)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "18(1)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "18(2)"
+    },
+    "equipment10": {
+      "rate": 0.05,
+      "citation": "12(2)"
+    },
+    "knowhow10": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "patent10": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "film11": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "copyright12": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    }
+  },
+  "lu": {
+    "interest1": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "10(2)"
+    },
+    "dividend7": {
+      "rate": 0.05,
+      "citation": "10(2)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "19(1)(a)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "19(1)(b)"
+    },
+    "knowhow10": {
+      "rate": 0.0,
+      "citation": "13(1)"
+    },
+    "patent10": {
+      "rate": 0.0,
+      "citation": "13(1)"
+    },
+    "film11": {
+      "rate": 0.0,
+      "citation": "13(1)"
+    },
+    "copyright12": {
+      "rate": 0.0,
+      "citation": "13(1)"
+    }
+  },
+  "mt": {
+    "interest1": {
+      "rate": 0.1,
+      "citation": "11(2)"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "10(2)"
+    },
+    "dividend7": {
+      "rate": 0.05,
+      "citation": "10(2)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "17(1)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "17(2)"
+    },
+    "knowhow10": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "patent10": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "film11": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "copyright12": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    }
+  },
+  "mx": {
+    "interest1": {
+      "rate": 0.15,
+      "citation": "11(2)"
+    },
+    "dividend6": {
+      "rate": 0.1,
+      "citation": "10(2) / 2PII"
+    },
+    "dividend7": {
+      "rate": 0.05,
+      "citation": "10(2) / 2PII"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "19(1)(a)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "19(1)(b)"
+    },
+    "equipment10": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "knowhow10": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "patent10": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "film11": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "copyright12": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    }
+  },
+  "ma": {
+    "interest1": {
+      "rate": 0.15,
+      "citation": "11(2)"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "10(2)"
+    },
+    "dividend7": {
+      "rate": 0.1,
+      "citation": "10(2)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "19(1)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "20(3)"
+    },
+    "knowhow10": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "patent10": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "film11": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "copyright12": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    }
+  },
+  "nl": {
+    "interest1": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "10(2) / P3(a)"
+    },
+    "dividend7": {
+      "rate": 0.05,
+      "citation": "10(2) / P3(a)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "19(1) - (3)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "19(4)"
+    },
+    "knowhow10": {
+      "rate": 0.0,
+      "citation": "13(1)"
+    },
+    "patent10": {
+      "rate": 0.0,
+      "citation": "13(1)"
+    },
+    "film11": {
+      "rate": 0.0,
+      "citation": "13(1)"
+    },
+    "copyright12": {
+      "rate": 0.0,
+      "citation": "13(1)"
+    }
+  },
+  "nz": {
+    "interest1": {
+      "rate": 0.1,
+      "citation": "11(2) / PVII"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "10(2) / PVI"
+    },
+    "dividend7": {
+      "rate": 0.05,
+      "citation": "10(2) / PVI"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "18(1)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "18(1)(b)"
+    },
+    "knowhow10": {
+      "rate": 0.05,
+      "citation": "12(2) / PVIII"
+    },
+    "patent10": {
+      "rate": 0.05,
+      "citation": "12(2) / PVIII"
+    },
+    "film11": {
+      "rate": 0.05,
+      "citation": "12(2) / PVIII"
+    },
+    "copyright12": {
+      "rate": 0.05,
+      "citation": "12(2) / PVIII"
+    }
+  },
+  "no": {
+    "interest1": {
+      "rate": 0.0,
+      "citation": "9 / PV"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "8(2) / PIV(1)"
+    },
+    "dividend7": {
+      "rate": 0.15,
+      "citation": "8(2) / PIV(1)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "18(1)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "19 / PVIII"
+    },
+    "knowhow10": {
+      "rate": 0.0,
+      "citation": "10(1)"
+    },
+    "patent10": {
+      "rate": 0.0,
+      "citation": "10(1)"
+    },
+    "copyright12": {
+      "rate": 0.0,
+      "citation": "10(1)"
+    }
+  },
+  "pk": {
+    "interest1": {
+      "rate": 0.3,
+      "citation": "XIV"
+    },
+    "dividend6": {
+      "rate": 0.3,
+      "citation": "VII(2) / VI(1)"
+    },
+    "dividend7": {
+      "rate": 0.15,
+      "citation": "VII(2) / VI(1)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "X(1)-(3)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "knowhow10": {
+      "rate": 0.0,
+      "citation": "VIII(1)"
+    },
+    "patent10": {
+      "rate": 0.0,
+      "citation": "VIII(1)"
+    },
+    "copyright12": {
+      "rate": 0.0,
+      "citation": "VIII(1)"
+    }
+  },
+  "ph": {
+    "interest1": {
+      "rate": 0.15,
+      "citation": "12(2)"
+    },
+    "dividend6": {
+      "rate": 0.25,
+      "citation": "11(2)"
+    },
+    "dividend7": {
+      "rate": 0.2,
+      "citation": "11(2)"
+    },
+    "pension15": {
+      "rate": 0.3,
+      "citation": "18(1)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": 19
+    },
+    "knowhow10": {
+      "rate": 0.15,
+      "citation": "13(2)"
+    },
+    "patent10": {
+      "rate": 0.15,
+      "citation": "13(2)"
+    },
+    "film11": {
+      "rate": 0.15,
+      "citation": "13(2)"
+    },
+    "copyright12": {
+      "rate": 0.15,
+      "citation": "13(2)"
+    }
+  },
+  "pl": {
+    "interest1": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "11(2)"
+    },
+    "dividend7": {
+      "rate": 0.05,
+      "citation": "11(2)"
+    },
+    "pension15": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "knowhow10": {
+      "rate": 0.1,
+      "citation": "13(2)"
+    },
+    "patent10": {
+      "rate": 0.1,
+      "citation": "13(2)"
+    },
+    "film11": {
+      "rate": 0.1,
+      "citation": "13(2)"
+    },
+    "copyright12": {
+      "rate": 0.1,
+      "citation": "13(2)"
+    }
+  },
+  "pt": {
+    "interest1": {
+      "rate": 0.1,
+      "citation": "11(2)"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "10(2),(3)"
+    },
+    "dividend7": {
+      "rate": 0.05,
+      "citation": "10(2),(3)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "20(1)(a)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "20(1)(b)"
+    },
+    "equipment10": {
+      "rate": 0.1,
+      "citation": "13(2)"
+    },
+    "knowhow10": {
+      "rate": 0.1,
+      "citation": "13(2)"
+    },
+    "patent10": {
+      "rate": 0.1,
+      "citation": "13(2)"
+    },
+    "film11": {
+      "rate": 0.1,
+      "citation": "13(2)"
+    },
+    "copyright12": {
+      "rate": 0.1,
+      "citation": "13(2)"
+    }
+  },
+  "ro": {
+    "interest1": {
+      "rate": 0.1,
+      "citation": "11(2)"
+    },
+    "dividend6": {
+      "rate": 0.1,
+      "citation": "10(2)"
+    },
+    "dividend7": {
+      "rate": 0.1,
+      "citation": "10(2)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "16(1)"
+    },
+    "socialSecurity": {
+      "rate": 0.0,
+      "citation": 17
+    },
+    "knowhow10": {
+      "rate": 0.15,
+      "citation": "12(2)"
+    },
+    "patent10": {
+      "rate": 0.15,
+      "citation": "12(2)"
+    },
+    "film11": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "copyright12": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    }
+  },
+  "ru": {
+    "interest1": {
+      "rate": 0.0,
+      "citation": "11(1)"
+    },
+    "dividend6": {
+      "rate": 0.1,
+      "citation": "10(2)"
+    },
+    "dividend7": {
+      "rate": 0.05,
+      "citation": "10(2)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "17(1)(a)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "17(1)(b)"
+    },
+    "knowhow10": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    },
+    "patent10": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    },
+    "film11": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    },
+    "copyright12": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    }
+  },
+  "sk": {
+    "interest1": {
+      "rate": 0.0,
+      "citation": "11(1)"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "10(2)"
+    },
+    "dividend7": {
+      "rate": 0.05,
+      "citation": "10(2)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "19(1)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "19(1)(b)"
+    },
+    "equipment10": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "knowhow10": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "patent10": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "film11": {
+      "rate": 0.0,
+      "citation": "12(2)"
+    },
+    "copyright12": {
+      "rate": 0.0,
+      "citation": "12(2)"
+    }
+  },
+  "si": {
+    "interest1": {
+      "rate": 0.05,
+      "citation": "11(2)"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "10(2)"
+    },
+    "dividend7": {
+      "rate": 0.05,
+      "citation": "10(2)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "18(1)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "18(2)"
+    },
+    "knowhow10": {
+      "rate": 0.05,
+      "citation": "12(1)"
+    },
+    "patent10": {
+      "rate": 0.05,
+      "citation": "12(1)"
+    },
+    "film11": {
+      "rate": 0.05,
+      "citation": "12(1)"
+    },
+    "copyright12": {
+      "rate": 0.05,
+      "citation": "12(1)"
+    }
+  },
+  "za": {
+    "interest1": {
+      "rate": 0.0,
+      "citation": "11(1)"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "10(2)"
+    },
+    "dividend7": {
+      "rate": 0.05,
+      "citation": "10(2)"
+    },
+    "pension15": {
+      "rate": 0.15,
+      "citation": "18(1)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "18(2)"
+    },
+    "knowhow10": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    },
+    "patent10": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    },
+    "film11": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    },
+    "copyright12": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    }
+  },
+  "es": {
+    "interest1": {
+      "rate": 0.1,
+      "citation": "11(2)"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "10(2)"
+    },
+    "dividend7": {
+      "rate": 0.1,
+      "citation": "10(2)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "20(1)(a)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "20(1)(b)"
+    },
+    "equipment10": {
+      "rate": 0.08,
+      "citation": "12(2)"
+    },
+    "knowhow10": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "patent10": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "film11": {
+      "rate": 0.08,
+      "citation": "12(2)"
+    },
+    "copyright12": {
+      "rate": 0.05,
+      "citation": "12(2)"
+    }
+  },
+  "lk": {
+    "interest1": {
+      "rate": 0.1,
+      "citation": "11(2)/ PVIII"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "10(2)"
+    },
+    "dividend7": {
+      "rate": 0.15,
+      "citation": "10(2)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "19(1)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "19(2)"
+    },
+    "equipment10": {
+      "rate": 0.05,
+      "citation": "12(2)"
+    },
+    "knowhow10": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "patent10": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "film11": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "copyright12": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    }
+  },
+  "se": {
+    "interest1": {
+      "rate": 0.0,
+      "citation": "11(1)"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "10(2) / PIV"
+    },
+    "dividend7": {
+      "rate": 0.05,
+      "citation": "10(2) / PIV"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "19(1)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "19(2)"
+    },
+    "knowhow10": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    },
+    "patent10": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    },
+    "film11": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    },
+    "copyright12": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    }
+  },
+  "ch": {
+    "interest1": {
+      "rate": 0.0,
+      "citation": "11(1)"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "10(2)"
+    },
+    "dividend7": {
+      "rate": 0.05,
+      "citation": "10(2)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "18(1)"
+    },
+    "socialSecurity": {
+      "rate": 0.15,
+      "citation": "19(4)"
+    },
+    "knowhow10": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    },
+    "patent10": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    },
+    "copyright12": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    }
+  },
+  "th": {
+    "interest1": {
+      "rate": 0.15,
+      "citation": "11(2)"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "10(2)"
+    },
+    "dividend7": {
+      "rate": 0.1,
+      "citation": "10(2)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "20(1)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "20(2)"
+    },
+    "equipment10": {
+      "rate": 0.08,
+      "citation": "12(2)"
+    },
+    "knowhow10": {
+      "rate": 0.15,
+      "citation": "12(2)"
+    },
+    "patent10": {
+      "rate": 0.15,
+      "citation": "12(2)"
+    },
+    "film11": {
+      "rate": 0.05,
+      "citation": "12(2)"
+    },
+    "copyright12": {
+      "rate": 0.05,
+      "citation": "12(2)"
+    }
+  },
+  "tt": {
+    "interest1": {
+      "rate": 0.3,
+      "citation": 13
+    },
+    "dividend6": {
+      "rate": 0.3,
+      "citation": "12(1)"
+    },
+    "dividend7": {
+      "rate": 0.3,
+      "citation": "12(1)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "22(1)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "knowhow10": {
+      "rate": 0.15,
+      "citation": "14(1)"
+    },
+    "patent10": {
+      "rate": 0.15,
+      "citation": "14(1)"
+    },
+    "copyright12": {
+      "rate": 0.0,
+      "citation": "14(1)"
+    }
+  },
+  "tn": {
+    "interest1": {
+      "rate": 0.15,
+      "citation": "11(2)"
+    },
+    "dividend6": {
+      "rate": 0.2,
+      "citation": "10(2)"
+    },
+    "dividend7": {
+      "rate": 0.14,
+      "citation": "10(2)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "18(1)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "18(1)"
+    },
+    "equipment10": {
+      "rate": 0.1,
+      "citation": "12(2)-(3)"
+    },
+    "knowhow10": {
+      "rate": 0.15,
+      "citation": "12(2)-(3)"
+    },
+    "patent10": {
+      "rate": 0.15,
+      "citation": "12(2)-(3)"
+    },
+    "film11": {
+      "rate": 0.15,
+      "citation": "12(2)-(3)"
+    },
+    "copyright12": {
+      "rate": 0.15,
+      "citation": "12(2)-(3)"
+    }
+  },
+  "tr": {
+    "interest1": {
+      "rate": 0.15,
+      "citation": "11(2)"
+    },
+    "dividend6": {
+      "rate": 0.2,
+      "citation": "10(2)"
+    },
+    "dividend7": {
+      "rate": 0.15,
+      "citation": "10(2)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "18(1)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "18(2)"
+    },
+    "equipment10": {
+      "rate": 0.05,
+      "citation": "12(2)"
+    },
+    "knowhow10": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "patent10": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "film11": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "copyright12": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    }
+  },
+  "ua": {
+    "interest1": {
+      "rate": 0.0,
+      "citation": "11(1)"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "10(2)"
+    },
+    "dividend7": {
+      "rate": 0.05,
+      "citation": "10(2)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "19(2)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "19(1)"
+    },
+    "knowhow10": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "patent10": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "film11": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "copyright12": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    }
+  },
+  "gb": {
+    "interest1": {
+      "rate": 0.0,
+      "citation": "11(1)"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "10(2)"
+    },
+    "dividend7": {
+      "rate": 0.05,
+      "citation": "10(2)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "17(1)"
+    },
+    "socialSecurity": {
+      "rate": 0.0,
+      "citation": "17(3)"
+    },
+    "knowhow10": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    },
+    "patent10": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    },
+    "film11": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    },
+    "copyright12": {
+      "rate": 0.0,
+      "citation": "12(1)"
+    }
+  },
+  "ve": {
+    "interest1": {
+      "rate": 0.1,
+      "citation": "11(2)"
+    },
+    "dividend6": {
+      "rate": 0.15,
+      "citation": "10(2)"
+    },
+    "dividend7": {
+      "rate": 0.05,
+      "citation": "10(2)"
+    },
+    "pension15": {
+      "rate": 0.0,
+      "citation": "19(1)"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "19(2)"
+    },
+    "equipment10": {
+      "rate": 0.05,
+      "citation": "12(2)"
+    },
+    "knowhow10": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "patent10": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "film11": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    },
+    "copyright12": {
+      "rate": 0.1,
+      "citation": "12(2)"
+    }
+  },
+  "oc": {
+    "interest1": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "dividend6": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "dividend7": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "pension15": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "socialSecurity": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "equipment10": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "knowhow10": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "patent10": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "film11": {
+      "rate": 0.3,
+      "citation": "None"
+    },
+    "copyright12": {
+      "rate": 0.3,
+      "citation": "None"
+    }
+  }
+}
